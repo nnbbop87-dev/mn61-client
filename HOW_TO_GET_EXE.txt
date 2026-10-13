@@ -1,0 +1,4 @@
+1) Make a free account on github.com and create a new repository (any name).
+2) Upload ALL files of this project (drag & drop the unzipped folder, including the .github folder).
+3) Open the "Actions" tab -> "Build mn61 Installer" -> wait a few minutes.
+4) Open the finished run -> Artifacts -> download "mn61-Client-setup" -> unzip -> mn61-Client_1.0.0_x64-setup.exe
